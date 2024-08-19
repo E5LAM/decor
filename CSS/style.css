@@ -186,7 +186,7 @@ swiper-container {
     text-align: right;
     padding: .5rem 3rem;
     width: 50%;
-    margin-top: -7rem;
+    margin-bottom: 1rem;
 }
 
 .home .home-content h3{
@@ -779,6 +779,9 @@ swiper-container {
     .home .home-content h4{
         font-size: 1.35rem;
     }
+    .home .home-content {
+        margin-top: -1rem;
+    }
     .heading{
         font-size: 2rem;
     }
@@ -842,9 +845,9 @@ swiper-container {
         width: 4.6rem;
         height: 4rem;
     }
-    .home-content h3,
+    /* .home-content h3,
     .home-content h4{
         font-size: 1.2rem;
         line-height: 1.5rem;
-    }
+    } */
 }
